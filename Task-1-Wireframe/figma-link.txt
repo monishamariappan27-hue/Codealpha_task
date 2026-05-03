@@ -1,0 +1,14 @@
+Task 1 - Wireframe (Low Fidelity Design)
+Tool Used: Figma
+App: Food Delivery App
+
+Figma Link:
+https://www.figma.com/design/JLmgxaYqUm15jAuZoQjjA1/food-app?node-id=0-1&t=6IehdGlnRQG8YJuC-1
+
+Screens Designed:
+1. Splash Screen
+2. Login Screen
+3. Home Screen
+4. Restaurant Page
+5. Cart Screen
+6. Order Confirmation
