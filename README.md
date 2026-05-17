@@ -23,9 +23,20 @@
 
 ---
 
-## Task 2 — High Fidelity UI Design 🔄 *(In Progress)*
+## Task 2 — High Fidelity UI Design ✅
 
-Coming soon...
+**App:** Food Delivery App
+**Figma Link:** https://www.figma.com/design/HeGEgw30uxayUJrKpwJXgE/Food-App-2?node-id=0-1&t=YBgYK6JOnAjQ0tVk-1
+
+**Screens Designed:**
+- Splash Screen
+- Login Page
+- Home Screen
+- Restaurant Page
+- Cart Screen
+- Order Confirmation
+
+**Folder:** [Task-2-HiFi-Design](./Task-2-HiFi-Design/)
 
 ---
 
