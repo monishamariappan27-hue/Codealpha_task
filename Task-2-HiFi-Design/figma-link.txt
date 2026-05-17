@@ -1,0 +1,17 @@
+Task 2 - High Fidelity UI Design
+Tool Used: Figma
+App: Food Delivery App
+
+Figma Link:
+https://www.figma.com/design/JLmgxaYqUm15jAuZoQjjA1/food-app?node-id=0-1&t=6IehdGlnRQG8YJuC-1
+
+Screens Designed:
+1. Splash Screen
+2. Login Page
+3. Home Screen
+4. Restaurant Page
+5. Cart Screen
+6. Order Confirmation
+
+Colors Used: #FF6B35, #FFFFFF, #F8F8F8, #1A1A2E
+Font Used: Poppins
