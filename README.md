@@ -58,10 +58,4 @@
 
 ---
 
-## Task 4 — Prototype Design 🔄 *(In Progress)*
-
-Coming soon...
-
----
-
 *Submitted as part of CodeAlpha UI/UX Design Internship Program*
