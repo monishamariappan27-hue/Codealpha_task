@@ -40,9 +40,21 @@
 
 ---
 
-## Task 3 — UX Case Study 🔄 *(In Progress)*
+## Task 3 — UX Case Study ✅
 
-Coming soon...
+**App Analyzed:** Zomato
+**Tool:** Figma
+
+**Figma Link:** https://www.figma.com/design/HeGEgw30uxayUJrKpwJXgE/Food-App-2?node-id=15-2
+
+**Pages Covered:**
+- Cover Page
+- User Journey Map
+- Strengths & Weaknesses
+- 3 UX Improvements
+- Conclusion
+
+**Folder:** [Task-3-UX-CaseStudy](./Task-3-UX-CaseStudy/)
 
 ---
 
